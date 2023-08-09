@@ -38,6 +38,8 @@ Folders give you the flexibility to organize and manage access to your clusters 
             -- Subfolder B2
     ~~~
 
+add a line
+
 - Each folder, including the root of the organization, can contain a maximum of 200 direct descendents, including folders or clusters.
 
 Operations that would violate these limitations result in an error.
