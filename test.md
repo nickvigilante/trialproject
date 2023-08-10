@@ -29,14 +29,14 @@ Folders give you the flexibility to organize and manage access to your clusters 
 
     In the following example, `Subfolder A` will be created successfully, but `Subfolder B2` will not, because it is nested too deeply:
 
-    ~~~
+    ```
     root
       -- Folder A
           -- Subfolder A
       -- Folder B
           -- Subfolder B
             -- Subfolder B2
-    ~~~
+    ```
 
 add a line
 
